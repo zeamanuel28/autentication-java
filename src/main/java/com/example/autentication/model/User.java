@@ -1,5 +1,4 @@
 package com.example.autentication.model;
-
 import jakarta.persistence.*;
 import lombok.Data;
 @Entity
